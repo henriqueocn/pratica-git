@@ -1,0 +1,8 @@
+Abrir o Git Bash
+Digitar pw para saber o diretório em que se esta
+Utilizar o comando cd e o nome do diretório para navegar entre os diretórios. Utilisou-se cd Desktop para ir ai Desktop
+Para imprimir (informar) todos os arquivos e pastas do diretório, usar comando ls
+Ir para um diretório que nao seja o Desktop, no caso usou-se o comando cd .. para voltar o diretório anterior ao desktop (Criei a pasta dentro do diretorio Matematica especial, dentro do proprio desktop)
+Criar a pasta pratica-shell com o comando mkdir pratica-shell
+Abrir a pasta com o comando cd pratica-shell (meu caso cd "matematica especial"/pratica-shell)
+Abrir o programa Notepad++ e criar o arquivo-shell.txt explicando o passo a passo e os comandos utilizados nessa tarefa.
