@@ -4,7 +4,15 @@ regras:
 2 - essas duas cartas podem, ou não, ser trocadas de posição entre si.
 3 - deve-se desvira-las e o valor delas deve ser esquecido, apenas a relação de maior ou menor entre elas pode ser lembrada.
 metodos
-embaralhar as cartas
-nomear as cartas sem saber quais são, por exemplo, A, B, C, D, E
-desvirar duas cartas por vez, estabelecendo a correlação de se uma é maior que a outra e gravando, combinando as cartas entre si sem repetir. se a carta numa posição menor, a esquerda, for maior do que a carta numa posição maior, a direita, troca-las de posição, caso contrario manter-las. a posição das cartas precisa ser gravada.
-quando todas as correlações de maior ou menor entre as cartas forem estabelecidas, as cartas estarão em ordem crescente.
+1- embaralhar as cartas
+2- nomear as cartas sem saber quais são, por exemplo, A, B, C, D, E
+3- desvirar duas cartas por vez, sem repitir, estabelecendo a correlação de se uma é maior que a outra e gravando, combinando as cartas entre si sem repetir. se a carta numa posição menor, a esquerda, for maior do que a carta numa posição maior, a direita, troca-las de posição, caso contrario manter-las. a posição das cartas precisa ser gravada.
+4- quando todas as correlações de maior ou menor entre as cartas forem estabelecidas, as cartas estarão em ordem crescente.
+
+Versão simplificada:
+Método:
+1- embaralhar as cartas
+2- nomear as cartas sem saber quais são
+3- desvirar duas cartas por vez, sem repitir, estabelecendo a correlação de se uma é maior que a outra e gravando, combinando as cartas entre si sem repetir. se a carta numa posição menor, a esquerda, for maior do que a carta numa posição maior, a direita, troca-las de posição, caso contrario manter-las. a posição das cartas precisa ser gravada.
+4- quando todas as correlações de maior ou menor entre as cartas forem estabelecidas, as cartas estarão em ordem crescente.
+
