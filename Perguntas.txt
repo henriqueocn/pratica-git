@@ -1,0 +1,23 @@
+Quais são as vantagens de utilizar a linha de comando ao inces de uma interface gráfica?
+
+As principais vantagens são: a facilidade e rapidez no acesso ao gerenciamento dos programas do computador. Alem disso o programa é de simples acesso, e todos os sitemas operacionais o suportam perfeitamente.
+
+Quais são as desvantagens?
+
+Há mais vantagens do que desvantagens, na verdade é difícil achar alguma, talvez por não ser um iniciante a desvantagem fica no aprendizado da linguagem de programação, que é lento e as vezes pode causar algum desconforto.
+
+Quais são os problemas que sistemas de controle de versão tentam solucionar?
+
+Um gerenciamento unificado do computador, visando maior execução de tarefas a partir de um só controle. Também visa um uso por vários usuários ao mesmo tempo através de um repositório central compartilhado
+
+Qual a estratégia do git para fazer isso?
+
+Uma constante atualização de versões visando sempre à melhoria e adaptação.
+
+Quais são as vantagens em utilizar um sistema de controle de versão para realizar um trabalho?
+
+Primeiramente a facilidade de gerenciamento de multitarefas a partir de um programa só, é interessante também o fato de sempre poder voltar atrás em arquivos passados para algum reparo ou de sempre atualizar os arquivos fazendo comentários sobre o que foi atualizado e o que foi alterado e é de suma importância também o constante envio dos arquivos para um repositório central via internet, onde só quem controla é você e evita a perda de arquivos quando, por exemplo, o computador é danificado.
+
+Quais foram as maiores dificuldade que vocês encontraram?
+
+Por se tratar de programação, os comandos não podem faltar um detalhe. Algumas coisas que parecem triviais, as vezes, se tornam grandes problemas. Os comandos sempre têm que estar perfeitos. O fato de não estarmos habituados com uma linha de comando causa certa estranheza no uso do programa.
